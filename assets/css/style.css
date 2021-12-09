@@ -1,0 +1,128 @@
+html{
+    scroll-behavior: auto !important;
+}
+
+
+body{
+    font-family: Helvetica;
+}
+
+/* Navbar */
+
+.navbar{
+    position:absolute;
+    width: 100vw;
+    z-index: 1;
+    font-size: 1.21em;
+}
+
+
+/* Carousel*/
+
+/* Quienes Somos*/
+
+#Quienes-Somos{
+    background-color: black;
+    font-family: "Open Sans";
+    line-height: 3;
+}
+
+#Quienes-Somos h4{
+    color: white;
+    font-size: 1.9em;
+}
+
+#Quienes-Somos hr{
+    color: #17a3b8;
+}
+
+#Quienes-Somos div p{
+    color: white;
+}
+
+#Quienes-Somos div i{
+    color: white;
+    background-color: #17a3b8;
+    text-align: center;
+}
+
+/* Destacados */
+
+#Destacados{
+    background-color: black;
+    font-family: "Open Sans";
+}
+
+#Destacados h4{
+    color: white;
+    font-size: 1.9em;
+}
+
+#Destacados hr{
+    color: #17a3b8;
+}
+
+#Destacados p{
+    color: white;
+    line-height: 2;
+}
+
+.card-body{
+    color: white;
+    background-color: #17a3b8;
+}
+
+
+
+/* Contacto */
+
+
+#Contacto{
+    background-color: black;
+}
+
+#Contacto h4{
+    color: white;
+    font-size: 1.9em;
+}
+
+#Contacto hr{
+    color: #17a3b8;
+}
+
+.formulario{
+    background-color: white;
+}
+
+#Contacto p{
+    color: black;
+    font-size: 1.9em;
+    margin-bottom: 1.5em;
+}
+
+.padding{
+    padding-top: 13em;
+    padding-bottom: 13em;
+}
+
+#Contacto button{
+    background-color: #0445af;
+    font-size: 1.3em;
+    letter-spacing: 0.1em;
+}
+
+
+/* Footer */
+
+#Footer{
+    background-color:#17a3b8;
+}
+
+#Footer h1{
+    font-family: "Oswald";
+}
+
+#Footer a{
+    color:white;
+    text-decoration: none;
+}
